@@ -16,10 +16,12 @@ public class 연결요소 {
         boolean[] c = new boolean[vertex+1];
         int ret = 0;
 
-        for (int i = 1; i <= vertex; i++){
+        for (int i = 1; i <= vertex; i++){      // 연결요소에서 가장 중요한 로직
             if (c[i] == false){
                 bfs(i, a, c);
-                ret+=1;
+                ret+=1;                         // 하나의 BFS 탐색이 끝나면 시작 노드에 연결된
+                                                // 모든 간선을 방문했다는 의미. 더 연결된 노드는 없다.
+                                                // 다른 연결 요소를 찾기 위해서 for문을 진행한다.
             }
         }
 
