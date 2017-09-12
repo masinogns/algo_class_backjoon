@@ -34,9 +34,8 @@ public class 사이클찾기 {
     private void dfs(int i, boolean[] check, ArrayList<Integer>[] a) {
         check[i] = true;
 
-        for (int nextVertex : a[i]){
-            if (check[nextVertex] == false)
-                dfs(nextVertex, check, a);
-        }
+        if (check[a[i].get(0)] == false)        // 간선이 모두 한개씩 뿐이기 때문에 for문을 돌릴 필요가 없다
+            dfs(a[i].get(0), check, a);
+
     }
 }
