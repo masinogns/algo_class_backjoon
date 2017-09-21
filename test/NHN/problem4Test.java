@@ -24,7 +24,7 @@ public class problem4Test {
     @Test
     public void tes2() throws Exception {
         int N = 5;
-        int[] A = new int[]{2,9,10,21,24};
+        int[] A = new int[]{2,9,24,10,21};
         int result = 102634359;
 
         assertEquals(result, application.solution(N, A));
