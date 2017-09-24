@@ -7,16 +7,16 @@ import java.util.Scanner;
  * Created by masinogns on 2017. 9. 18..
  */
 public class problem1 {
-    public int[] solution(int n, int[] a) {
+    public long[] solution(int n, long[] a) {
 
         Arrays.sort(a);
 
-        int[] temp = new int[2];
+        long[] temp = new long[2];
 
-        int dif = Integer.MAX_VALUE;
+        long dif = Integer.MAX_VALUE;
 
         for (int i = 1; i < n; i++){
-            int min = a[i]-a[i-1];
+            long min = a[i]-a[i-1];
             if(min < dif){
                 dif = min;
                 temp[0] = a[i-1];
@@ -35,12 +35,12 @@ public class problem1 {
 
         int N = scanner.nextInt();
 
-        int[] A = new int[N];
+        long[] A = new long[N];
         for (int i = 0; i < N; i++){
-            A[i] = scanner.nextInt();
+            A[i] = scanner.nextLong();
         }
 
-        int[] result = new int[2];
+        long[] result = new long[2];
 
         result = application.solution(N, A);
 

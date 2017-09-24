@@ -5,6 +5,8 @@ import java.util.Stack;
 
 /**
  * Created by masinogns on 2017. 9. 18..
+ *
+ * PASS
  */
 public class problem3 {
     public int[] solution(String s) {

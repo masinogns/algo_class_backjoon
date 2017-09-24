@@ -17,8 +17,7 @@ package 기초알고리즘.자료구조1;
  *
  */
 
-import java.io.*;
-import java.util.Stack;
+
 
 /**
  * Psedo code
@@ -39,6 +38,10 @@ import java.util.Stack;
  *  else if ( s.charAt() == 'P' )
  *    stack.push(x)
  */
+
+import java.io.*;
+import java.util.Stack;
+
 public class 에디터 {
     public String reverse="";
 

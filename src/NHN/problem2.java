@@ -1,33 +1,64 @@
 package NHN;
 
+import java.util.Scanner;
 import java.util.Stack;
 
 /**
  * Created by masinogns on 2017. 9. 18..
+ *
+ * 샘플 테스트 케이스는 다 돌아가는데 직접 돌리니 안돌아가네
+ *
+ * 패스했다가 나중에 다시 보기
  */
 public class problem2 {
     public int solution(int n) {
 
-        int f = n + reverse(n);
+        int count = 1;
+        boolean check = false;
 
-        return 0;
+        while (count < 3){
+            n = n + reverse(n);
+
+            String s = String.valueOf(n);
+            if (s.length() % 2 != 0){
+                for (int i = 0; i < s.length()/2; i++){
+                    if (s.charAt(i) != s.charAt(s.length() - 1 - i))
+                        continue;
+
+                    check = true;
+                    break;
+                }
+            }
+
+            count++;
+        }
+
+        if (check == false)
+            return -1;
+
+        return n;
     }
 
-    private int reverse(int n) {
-        Stack<Integer> stack = new Stack<>();
+    private int reverse(int N) {
+        Stack<Character> stack = new Stack<>();
 
-        int mok = 0, divide = 0;
-        while (n > 10){
-            mok = n / 10;
-            stack.push(mok);
-            n = n % 10;
+        String string = Integer.toString(N);
+        String reverse = "";
+        for (Character character : string.toCharArray())
+            stack.push(character);
+
+        while (!stack.isEmpty()){
+            reverse += stack.pop();
         }
 
-        int ret = 0;
-        for (int i = stack.size()-1; i >= 0; i--){
-            ret += (int) (stack.pop()*Math.pow(10, i));
-        }
+        return Integer.parseInt(reverse);
+    }
 
-        return ret;
+    public static void main(String[] args) {
+        problem2 application = new problem2();
+
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println(application.solution(scanner.nextInt()));
     }
 }

@@ -14,11 +14,11 @@ public class problem1Test {
     @Test
     public void test1() throws Exception {
         int N = 6;
-        int[] A = new int[]{
+        long[] A = new long[]{
                 6, 20,34, 8, 38,40
         };
 
-        int[] result = new int[]{
+        long[] result = new long[]{
                 6,8
         };
 
@@ -28,11 +28,11 @@ public class problem1Test {
     @Test
     public void test12() throws Exception {
         int N = 7;
-        int[] A = new int[]{
+        long[] A = new long[]{
                 20,16,10,45,30,28,47
         };
 
-        int[] result = new int[]{
+        long[] result = new long[]{
                 28,30
         };
 
