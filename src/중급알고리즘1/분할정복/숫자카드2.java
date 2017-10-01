@@ -9,48 +9,54 @@ import java.util.*;
  * index에 음수도 있기 때문에 배열을 사용하는건 패스
  * 그래서 HashMap을 사용하여 카드의 숫자를 키값 그리고 카운트하는 수를 밸류값으로 해서 문제를 풀어나가겠다
  *
- * 아아아아 지이이이익 못 풀었드아아아아
+ * int n : 상근이가 가지고 있는 숫자 카드의 개수
+ * int[] arrayN : 상근이가 가지고 있는 숫자 카드들
+ * int m : 몇개 가지고 있는지
+ * int[] arrayM : 상근이가 몇개 가지고 있는 숫자 카드인지
  */
 public class 숫자카드2 {
     public ArrayList<Integer> solution(int n, int[] arrayN, int m, int[] arrayM) {
 
         HashMap<Integer, Integer> result = new HashMap<>();
-        Arrays.sort(arrayN);
+        ArrayList<Integer> ret = new ArrayList<>();
 
-        for (int target = 0; target < arrayN.length; target++){
-            Integer value = arrayN[binarySearch(target, arrayN)];
-            System.out.print(value);
-            Integer count = result.get(value);
+        for (int i = 0; i < n; i++){
+            int target = arrayN[i];
+            Integer count = result.get(target);
             if (count == null)
-                result.put(value, new Integer(0));
+                result.put(target, new Integer(1));
             else
-                result.put(value, new Integer(count+1));
+                result.put(target, new Integer(count+1));
         }
 
-        Iterator iterate2 = result.keySet().iterator();
-        while (iterate2.hasNext()) System.out.println(iterate2.next());
+        for (Integer i : arrayM){
+            if (result.get(i)!=null)
+                ret.add(result.get(i));
+            else
+                ret.add(0);
+        }
 
-        Iterator iterate = result.values().iterator();
-        while (iterate.hasNext()) System.out.println(iterate.next());
-        return null;
+        return ret;
     }
 
-    public int binarySearch(int tartget, int[] cmp){
-        int left = 0, right = cmp.length, mid;
+    public static void main(String[] args) {
+        숫자카드2 application = new 숫자카드2();
 
-        while (left <= right){
-            mid = (left + right) / 2;
+        Scanner scanner = new Scanner(System.in);
 
-            if (tartget == cmp[mid])
-                return mid;
-            else {
-                if (tartget < cmp[mid])
-                    right = mid - 1;
-                else
-                    left = mid + 1;
-            }
-        }
+        int N = scanner.nextInt();
+        int[] arrayN = new int[N];
+        for (int i = 0; i < N; i++)
+            arrayN[i] = scanner.nextInt();
 
-        return 0;
+        int M = scanner.nextInt();
+        int[] arrayM = new int[M];
+        for (int i = 0; i < M; i++)
+            arrayM[i] = scanner.nextInt();
+
+        ArrayList<Integer> ret = application.solution(N, arrayN, M, arrayM);
+
+        for (int i : ret)
+            System.out.print(i+" ");
     }
 }
