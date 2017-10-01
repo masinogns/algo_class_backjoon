@@ -2,6 +2,7 @@ package 중급알고리즘1.분할정복;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Scanner;
 
 /**
  * Created by masinogns on 2017. 9. 15..
@@ -38,7 +39,7 @@ public class 숫자카드 {
 
     public boolean binarySearch(int target, int[] compareArray){
         int left = 0;
-        int right = compareArray.length;
+        int right = compareArray.length-1;
         int mid = 0;
 
         while (left <= right){
@@ -46,14 +47,36 @@ public class 숫자카드 {
 
             if (target == compareArray[mid])
                 return true;
-            else {
-                if (target < compareArray[mid])
-                    right = mid - 1;
-                else
-                    left = mid + 1;
+            else if (target < compareArray[mid])
+                right = mid - 1;
+            else
+                left = mid + 1;
             }
-        }
 
         return false;
+    }
+
+    public static void main(String[] args) {
+        숫자카드 application = new 숫자카드();
+
+        Scanner scanner = new Scanner(System.in);
+
+        int N = scanner.nextInt();
+        int[] ArrayN = new int[N];
+        for (int i = 0; i < N; i++){
+            ArrayN[i] = scanner.nextInt();
+        }
+
+        int M = scanner.nextInt();
+        int[] ArrayM = new int[M];
+        for (int i = 0; i < M; i++){
+            ArrayM[i] = scanner.nextInt();
+        }
+
+        ArrayList<Integer> ret = application.solution(N, ArrayN, M, ArrayM);
+
+        for (Integer i : ret){
+            System.out.print(i+" ");
+        }
     }
 }

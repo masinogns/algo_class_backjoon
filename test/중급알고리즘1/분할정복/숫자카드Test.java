@@ -14,6 +14,13 @@ public class 숫자카드Test {
 
     숫자카드 application = new 숫자카드();
 
+    /**
+     * N은 상근이가 가지고 있는 숫자 카드의 갯수
+     * ArrayN은 숫자 카드에 적혀있는 숫자
+     * M은 숫자 M으로 비교할 숫자 카드의 갯수
+     * ArrayM은 이 숫자 카드를 상근이가 가지고 있는지를 찾는거다
+     * @throws Exception
+     */
     @Test
     public void test1() throws Exception {
 
@@ -25,6 +32,4 @@ public class 숫자카드Test {
         ArrayList<Integer> result = new ArrayList<>(Arrays.asList(1,0,0,1,1,0,0,1));
         assertEquals(result, application.solution(N, ArrayN, M, ArrayM));
     }
-
-
 }
