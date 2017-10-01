@@ -14,8 +14,6 @@ public class 종이의개수Test {
     public void test12() throws Exception {
         int size = 9;
 
-        int[] cnt = new  int[3];
-
         int[][] papers = new int[size][size];
 
         papers = new int[][]{
@@ -32,8 +30,6 @@ public class 종이의개수Test {
         };
 
         application.solution(papers,0, 0, size);
-//        for (Integer i: application.getCnt())
-//            System.out.println(i);
-        assertArrayEquals(new int[]{10,12,11}, application.getCnt());
+        assertArrayEquals(new int[]{10,12,11}, application.getNumberOfPaper());
     }
 }
