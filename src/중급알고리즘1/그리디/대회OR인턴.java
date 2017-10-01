@@ -1,5 +1,7 @@
 package 중급알고리즘1.그리디;
 
+import java.util.Scanner;
+
 /**
  * Created by masinogns on 2017. 9. 14..
  *
@@ -37,5 +39,32 @@ public class 대회OR인턴 {
         }
 
         return team;
+    }
+
+    public int baekJoon(int girls, int guys, int k) {
+
+        int team = 0;
+
+        while (girls >= 2 &&  guys >= 1 && girls + guys >= k+3){
+            team += 1;
+            girls -= 2;
+            guys -= 1;
+        }
+
+        return team;
+    }
+
+    public static void main(String[] args) {
+        대회OR인턴 application = new 대회OR인턴();
+
+        Scanner scanner = new Scanner(System.in);
+
+        int Girls = scanner.nextInt();
+        int Guys = scanner.nextInt();
+        int K = scanner.nextInt();
+
+        int ret = application.baekJoon(Girls, Guys, K);
+
+        System.out.println(ret);
     }
 }
