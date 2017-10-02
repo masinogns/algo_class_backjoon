@@ -48,6 +48,6 @@ public class ZTest {
         application.setN(n);
         application.setMap(n);
 
-        application.solution(0, 0, (int) Math.pow(2, n-1), 0);
+        application.solution(0, 0, (int) Math.pow(2, n), 0);
     }
 }

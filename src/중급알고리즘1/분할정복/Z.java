@@ -18,7 +18,7 @@ public class Z {
     }
 
     public void setMap(int size) {
-        int mapSize = (int) Math.pow(2, size+1);
+        int mapSize = (int) Math.pow(2, size);
         map = new int[mapSize][mapSize];
     }
 
@@ -31,9 +31,9 @@ public class Z {
             }
         }else {
             int m = n / 2;
-            for (int i = 0; i < n; i++) {
-                for (int j = 0; j < n; j++) {
-                    solution(x + i * 2, y + j * 2, m, count);
+            for (int i = 0; i < m; i++) {
+                for (int j = 0; j < m; j++) {
+                    solution(x + i * 2, y + j * 2, 1, count);
                     count+=4;
                 }
             }
