@@ -15,7 +15,7 @@ import java.util.Comparator;
  *
  *
  * 회의들을 끝 시간을 기준으로 오름차순으로 정렬한 뒤 처음의 끝 시간을 max로 잡고 반복하면서
- * max값과 다른 회의의 시작 ㅅ간을 비교해줘서 max값 이상이면 다시 max를 회의의 끝시간으로 잡는다.
+ * max값과 다른 회의의 시작 시간을 비교해줘서 max값 이상이면 다시 max를 회의의 끝시간으로 잡는다.
  *
  * http://cwondev.tistory.com/15
  * https://m.blog.naver.com/PostView.nhn?blogId=jongwon0320&logNo=100196176337&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F

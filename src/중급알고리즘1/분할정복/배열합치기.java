@@ -68,11 +68,11 @@ public class 배열합치기 {
 
     private static int[] makeArray(BufferedReader br, int n) throws IOException {
         String[] line;
-        int[] A = new int[n];
+        int[] Array = new int[n];
         line = br.readLine().split("");
         for (int i = 0; i < n; i++){
-            A[i] = Integer.valueOf(line[i]);
+            Array[i] = Integer.valueOf(line[i]);
         }
-        return A;
+        return Array;
     }
 }

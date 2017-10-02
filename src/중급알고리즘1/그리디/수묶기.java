@@ -1,9 +1,6 @@
 package 중급알고리즘1.그리디;
 
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.Stack;
+import java.util.*;
 
 /**
  * Created by masinogns on 2017. 9. 14..
@@ -81,5 +78,19 @@ public class 수묶기 {
 
 
         return minusSum+plusSum+restMinus+restPlus+OneStack.size();
+    }
+
+    public static void main(String[] args) {
+        수묶기 application = new 수묶기();
+
+        Scanner scanner = new Scanner(System.in);
+
+        int N = scanner.nextInt();
+        int[] A = new int[N];
+        for (int i = 0; i < N; i++){
+            A[i] = scanner.nextInt();
+        }
+
+        System.out.println(application.solution(N, A));
     }
 }

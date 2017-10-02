@@ -29,6 +29,8 @@ public class Z {
                     map[i][j] = count++;
                 }
             }
+
+            return;
         }else {
             int m = n / 2;
             for (int i = 0; i < m; i++) {
