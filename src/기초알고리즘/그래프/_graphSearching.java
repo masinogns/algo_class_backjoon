@@ -71,13 +71,7 @@ public class _graphSearching {
         }
 
         System.out.println("Before");
-        for (int i = 1; i <= n; i++){
-            System.out.print("정점이 "+i+"일 때 ");
-            for (Integer integer : a[i]){
-                System.out.print(integer + " ");
-            }
-            System.out.println();
-        }
+        printArray(n);
 
         // java sorting arraylist
         for (int i = 1; i <= n; i++){
@@ -85,13 +79,7 @@ public class _graphSearching {
         }
 
         System.out.println("After");
-        for (int i = 1; i <= n; i++){
-            System.out.print("정점이 "+i+"일 때 ");
-            for (Integer integer : a[i]){
-                System.out.print(integer + " ");
-            }
-            System.out.println();
-        }
+        printArray(n);
 
 
         boolean[] check1 = new boolean[n+1];
@@ -103,6 +91,16 @@ public class _graphSearching {
         System.out.print("BFS ");
         bfs(start, check2);
         System.out.println();
+    }
+
+    private static void printArray(int n) {
+        for (int i = 1; i <= n; i++){
+            System.out.print("정점이 "+i+"일 때 ");
+            for (Integer integer : a[i]){
+                System.out.print(integer + " ");
+            }
+            System.out.println();
+        }
     }
 
     private static void bfs(int start, boolean[] check) {       // 큐를 이용해서 지금 위치에서 갈 수 있는 것을 모두 큐에 넣는 방식
