@@ -2,17 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdaa3aa8-dc9f-42e7-b74b-5075593810bc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/기초알고리즘/그래프_다시_풀기/DFS와BFS.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/중급알고리즘1/분할정복/가장가까운두점.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/중급알고리즘1/분할정복/별찍기11.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/중급알고리즘1/분할정복/쿼드트리.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/중급알고리즘1/이분탐색/나무자르기.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/중급알고리즘1/완전탐색0/모든순열백준꺼.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/aaa.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/리모컨.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/리모컨백준.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/소수경로백준.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/외판원순회2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/차이를최대로.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/중급알고리즘1/이분탐색/중량제한.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/기초알고리즘/그래프_다시_풀기/DFS와BFSTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/중급알고리즘1/분할정복/가장가까운두점Test.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/중급알고리즘1/분할정복/별찍기11Test.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/중급알고리즘1/분할정복/쿼드트리Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/중급알고리즘1/이분탐색/나무자르기Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/중급알고리즘1/이분탐색/랜선.java" afterPath="$PROJECT_DIR$/src/중급알고리즘1/이분탐색/랜선자르기.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/중급알고리즘1/이분탐색/랜선Test.java" afterPath="$PROJECT_DIR$/test/중급알고리즘1/이분탐색/랜선자르기Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/중급알고리즘1/완전탐색1/리모컨Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/중급알고리즘1/이분탐색/놀이공원Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/중급알고리즘1/이분탐색/중량제한Test.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/kakao/problem1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/NHNPretest/problem1Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/kakao/promblem1Test.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NHN/problem1.java" afterPath="$PROJECT_DIR$/src/CodingTest/NHN/problem1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NHN/problem2.java" afterPath="$PROJECT_DIR$/src/CodingTest/NHN/problem2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NHN/problem2015_1.java" afterPath="$PROJECT_DIR$/src/CodingTest/NHN/problem2015_1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NHN/problem2015_2.java" afterPath="$PROJECT_DIR$/src/CodingTest/NHN/problem2015_2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NHN/problem2015_4.java" afterPath="$PROJECT_DIR$/src/CodingTest/NHN/problem2015_4.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NHN/problem3.java" afterPath="$PROJECT_DIR$/src/CodingTest/NHN/problem3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NHN/problem4.java" afterPath="$PROJECT_DIR$/src/CodingTest/NHN/problem4.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NHNPretest/problem1.java" afterPath="$PROJECT_DIR$/src/CodingTest/NHNPretest/problem1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NHNPretest/problem2.java" afterPath="$PROJECT_DIR$/src/CodingTest/NHNPretest/problem2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NHNPretest/problem3.java" afterPath="$PROJECT_DIR$/src/CodingTest/NHNPretest/problem3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kakao/LRU.java" afterPath="$PROJECT_DIR$/src/CodingTest/kakao/LRU.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kakao/problem2.java" afterPath="$PROJECT_DIR$/src/CodingTest/kakao/problem2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kakao/problem3.java" afterPath="$PROJECT_DIR$/src/CodingTest/kakao/problem3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kakao/problem4.java" afterPath="$PROJECT_DIR$/src/CodingTest/kakao/problem4.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kakao/problem5.java" afterPath="$PROJECT_DIR$/src/CodingTest/kakao/problem5.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kakao/problem6.java" afterPath="$PROJECT_DIR$/src/CodingTest/kakao/problem6.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/NHN/problem1Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/NHN/problem1Test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/NHN/problem2015_2Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/NHN/problem2015_2Test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/NHN/problem2015_4Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/NHN/problem2015_4Test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/NHN/problem2Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/NHN/problem2Test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/NHN/problem3Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/NHN/problem3Test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/NHN/problem4Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/NHN/problem4Test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/NHNPretest/problem2Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/NHNPretest/problem2Test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/kakao/LRUTest.java" afterPath="$PROJECT_DIR$/test/CodingTest/kakao/LRUTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/kakao/problem1Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/kakao/problem1Test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/kakao/problem2Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/kakao/problem2Test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/kakao/problem3Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/kakao/problem3Test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/kakao/problem4Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/kakao/problem4Test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/kakao/problem5Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/kakao/problem5Test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/kakao/problem6Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/kakao/problem6Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/기초알고리즘/그래프/_graphSearching.java" afterPath="$PROJECT_DIR$/src/기초알고리즘/그래프/_graphSearching.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/중급알고리즘1/분할정복/버블소트.java" afterPath="$PROJECT_DIR$/src/중급알고리즘1/분할정복/버블소트.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/중급알고리즘1/이분탐색/공유기설치.java" afterPath="$PROJECT_DIR$/src/중급알고리즘1/이분탐색/공유기설치.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,59 +93,67 @@
     <favorites_list name="classBackJoon" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="_MergeSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/_MergeSort.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="_Edge_List.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프/_Edge_List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+            <state relative-caret-position="-77">
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Z.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/Z.java">
+      <file leaf-file-name="_Adjacency_Matrix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프/_Adjacency_Matrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="342">
+              <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="버블소트.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/버블소트.java">
+      <file leaf-file-name="_Adjacency_List.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프/_Adjacency_List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="40" column="22" lean-forward="false" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+            <state relative-caret-position="417">
+              <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_graphSearching.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프/_graphSearching.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-75">
+              <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DFS와BFS.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프_다시_풀기/DFS와BFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
               <folding>
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#1001#1002#0" expanded="true" />
-                <element signature="e#1027#1028#0" expanded="true" />
-                <element signature="e#1057#1058#0" expanded="true" />
-                <element signature="e#1085#1086#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="method#DFS와BFS#0;class#DFS와BFS#0" expanded="false" />
+                <element signature="e#2090#2091#0" expanded="true" />
+                <element signature="e#2116#2117#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="가장가까운두점.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/가장가까운두점.java">
+      <file leaf-file-name="DFS와BFSTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/기초알고리즘/그래프_다시_풀기/DFS와BFSTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="가장가까운두점Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/분할정복/가장가까운두점Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="669">
+              <caret line="40" column="56" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="40" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,83 +161,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="랜선자르기.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/이분탐색/랜선자르기.java">
+      <file leaf-file-name="사이클찾기.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프/사이클찾기.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#348#349#0" expanded="true" />
-                <element signature="e#374#375#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#480#481#0" expanded="true" />
-                <element signature="e#514#515#0" expanded="true" />
-                <element signature="e#541#542#0" expanded="true" />
-                <element signature="e#567#568#0" expanded="true" />
-                <element signature="e#598#599#0" expanded="true" />
-                <element signature="e#626#627#0" expanded="true" />
-                <element signature="e#1458#1459#0" expanded="true" />
-                <element signature="e#1484#1485#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="380">
+              <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="나무자르기.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/이분탐색/나무자르기.java">
+      <file leaf-file-name="섬의개수.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프/섬의개수.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="554">
-              <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-              <folding>
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#557#558#0" expanded="true" />
-                <element signature="e#598#599#0" expanded="true" />
-                <element signature="e#632#633#0" expanded="true" />
-                <element signature="e#663#664#0" expanded="true" />
-                <element signature="e#691#692#0" expanded="true" />
-                <element signature="e#833#834#0" expanded="true" />
-                <element signature="e#857#858#0" expanded="true" />
-                <element signature="e#884#885#0" expanded="true" />
-                <element signature="e#910#911#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="570">
+              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="나무자르기Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/이분탐색/나무자르기Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="랜선자르기Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/이분탐색/랜선자르기Test.java">
+      <file leaf-file-name="이분그래프.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프/이분그래프.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
-              <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="버블소트Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/분할정복/버블소트Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -194,8 +196,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -203,6 +205,7 @@
     <findStrings>
       <find>ㅗ</find>
       <find>cnt</find>
+      <find>리모컨</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -226,57 +229,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/kakao/problem5.java" />
-        <option value="$PROJECT_DIR$/test/kakao/problem6Test.java" />
-        <option value="$PROJECT_DIR$/src/kakao/problem6.java" />
-        <option value="$PROJECT_DIR$/test/NHN/problem2Test.java" />
-        <option value="$PROJECT_DIR$/test/NHN/problem3Test.java" />
-        <option value="$PROJECT_DIR$/src/NHN/problem1.java" />
-        <option value="$PROJECT_DIR$/test/NHN/problem1Test.java" />
-        <option value="$PROJECT_DIR$/src/기초알고리즘/자료구조1/에디터.java" />
-        <option value="$PROJECT_DIR$/src/NHN/problem2.java" />
-        <option value="$PROJECT_DIR$/src/NHN/problem3.java" />
-        <option value="$PROJECT_DIR$/test/NHN/problem4Test.java" />
-        <option value="$PROJECT_DIR$/src/NHN/problem4.java" />
-        <option value="$PROJECT_DIR$/test/NHN/problem2015_2Test.java" />
-        <option value="$PROJECT_DIR$/src/NHN/problem2015_2.java" />
-        <option value="$PROJECT_DIR$/test/NHN/problem2015_4Test.java" />
-        <option value="$PROJECT_DIR$/src/NHN/problem2015_4.java" />
-        <option value="$PROJECT_DIR$/test/NHNPretest/problem1Test.java" />
-        <option value="$PROJECT_DIR$/src/NHNPretest/problem1.java" />
-        <option value="$PROJECT_DIR$/src/NHNPretest/problem3.java" />
-        <option value="$PROJECT_DIR$/test/NHNPretest/problem2Test.java" />
-        <option value="$PROJECT_DIR$/src/NHNPretest/problem2.java" />
-        <option value="$PROJECT_DIR$/src/중급알고리즘1/그리디/회의실배정.java" />
-        <option value="$PROJECT_DIR$/src/중급알고리즘1/그리디/대회OR인턴.java" />
-        <option value="$PROJECT_DIR$/src/중급알고리즘1/그리디/수묶기.java" />
-        <option value="$PROJECT_DIR$/src/중급알고리즘1/분할정복/숫자카드.java" />
-        <option value="$PROJECT_DIR$/test/중급알고리즘1/분할정복/숫자카드Test.java" />
-        <option value="$PROJECT_DIR$/src/중급알고리즘1/분할정복/숫자카드2.java" />
-        <option value="$PROJECT_DIR$/src/중급알고리즘1/분할정복/_MergeSort.java" />
-        <option value="$PROJECT_DIR$/test/중급알고리즘1/분할정복/종이의개수Test.java" />
-        <option value="$PROJECT_DIR$/src/중급알고리즘1/분할정복/하노이의탑이동순서.java" />
-        <option value="$PROJECT_DIR$/test/중급알고리즘1/분할정복/트리의순회Test.java" />
-        <option value="$PROJECT_DIR$/src/중급알고리즘1/분할정복/트리의순회.java" />
-        <option value="$PROJECT_DIR$/src/중급알고리즘1/분할정복/배열합치기.java" />
-        <option value="$PROJECT_DIR$/src/중급알고리즘1/분할정복/쿼드트리.java" />
-        <option value="$PROJECT_DIR$/test/중급알고리즘1/분할정복/쿼드트리Test.java" />
-        <option value="$PROJECT_DIR$/src/중급알고리즘1/분할정복/종이의개수.java" />
-        <option value="$PROJECT_DIR$/test/중급알고리즘1/분할정복/별찍기10Test.java" />
-        <option value="$PROJECT_DIR$/src/중급알고리즘1/분할정복/별찍기10.java" />
-        <option value="$PROJECT_DIR$/src/중급알고리즘1/분할정복/별찍기11.java" />
         <option value="$PROJECT_DIR$/test/중급알고리즘1/분할정복/별찍기11Test.java" />
         <option value="$PROJECT_DIR$/test/중급알고리즘1/분할정복/Z2Test.java" />
         <option value="$PROJECT_DIR$/src/중급알고리즘1/분할정복/Z2.java" />
         <option value="$PROJECT_DIR$/test/중급알고리즘1/분할정복/ZTest.java" />
         <option value="$PROJECT_DIR$/src/중급알고리즘1/분할정복/Z.java" />
         <option value="$PROJECT_DIR$/test/중급알고리즘1/분할정복/버블소트Test.java" />
-        <option value="$PROJECT_DIR$/src/중급알고리즘1/분할정복/버블소트.java" />
         <option value="$PROJECT_DIR$/test/중급알고리즘1/분할정복/가장가까운두점Test.java" />
         <option value="$PROJECT_DIR$/test/중급알고리즘1/이분탐색/랜선Test.java" />
         <option value="$PROJECT_DIR$/src/중급알고리즘1/이분탐색/랜선.java" />
         <option value="$PROJECT_DIR$/test/중급알고리즘1/이분탐색/나무자르기Test.java" />
         <option value="$PROJECT_DIR$/src/중급알고리즘1/이분탐색/나무자르기.java" />
+        <option value="$PROJECT_DIR$/test/중급알고리즘1/이분탐색/공유기설치Test.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/이분탐색/공유기설치.java" />
+        <option value="$PROJECT_DIR$/test/중급알고리즘1/이분탐색/중량제한Test.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/이분탐색/중량제한.java" />
+        <option value="$PROJECT_DIR$/test/중급알고리즘1/이분탐색/놀이공원Test.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/이분탐색/놀이공원.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/분할정복/버블소트.java" />
+        <option value="$PROJECT_DIR$/test/중급알고리즘1/분할정복/쿼드트리Test.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/분할정복/쿼드트리.java" />
+        <option value="$PROJECT_DIR$/test/중급알고리즘1/완전탐색0/집합Test.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/완전탐색0/집합.java" />
+        <option value="$PROJECT_DIR$/test/중급알고리즘1/완전탐색0/다음순열Test.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/완전탐색0/다음순열.java" />
+        <option value="$PROJECT_DIR$/test/중급알고리즘1/완전탐색0/이전순열Test.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/완전탐색0/이전순열.java" />
+        <option value="$PROJECT_DIR$/test/중급알고리즘1/완전탐색0/모든순열Test.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/완전탐색0/모든순열.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/완전탐색0/순열의순서.java" />
+        <option value="$PROJECT_DIR$/test/중급알고리즘1/완전탐색0/순열의순서Test.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/완전탐색0/순열의집합백준.java" />
+        <option value="$PROJECT_DIR$/test/중급알고리즘1/완전탐색1/For/EMSTest.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/For/EMS.java" />
+        <option value="$PROJECT_DIR$/test/중급알고리즘1/완전탐색1/For/리모컨Test.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/For/리모컨.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/For/리모컨백준.java" />
+        <option value="$PROJECT_DIR$/test/중급알고리즘1/완전탐색1/For/차이를최대로Test.java" />
+        <option value="$PROJECT_DIR$/test/중급알고리즘1/완전탐색1/For/외판원순회2Test.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/For/차이를최대로.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/For/외판원순회2.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/완전탐색0/모든순열백준꺼.java" />
+        <option value="$PROJECT_DIR$/test/중급알고리즘1/완전탐색1/For/로또Test.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/For/로또.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/로또.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/숨바꼭질백준.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/소수경로백준.java" />
+        <option value="$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/aaa.java" />
+        <option value="$PROJECT_DIR$/src/기초알고리즘/그래프/_graphSearching.java" />
+        <option value="$PROJECT_DIR$/src/기초알고리즘/그래프_다시_풀기/BfsTest02.java" />
+        <option value="$PROJECT_DIR$/test/기초알고리즘/그래프_다시_풀기/DFS와BFSTest.java" />
+        <option value="$PROJECT_DIR$/src/기초알고리즘/그래프_다시_풀기/DFS와BFS.java" />
       </list>
     </option>
   </component>
@@ -288,7 +291,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1024" />
-    <option name="y" value="-399" />
+    <option name="y" value="-384" />
     <option name="width" value="1024" />
     <option name="height" value="1280" />
   </component>
@@ -310,8 +313,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -338,14 +341,6 @@
               <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="중급알고리즘1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="이분탐색" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -357,25 +352,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="중급알고리즘1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classBackJoon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classBackJoon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -393,11 +370,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="중급알고리즘1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="이분탐색" />
+              <option name="myItemId" value="기초알고리즘" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -415,21 +388,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="중급알고리즘1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classBackJoon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classBackJoon" />
+              <option name="myItemId" value="기초알고리즘" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="그래프_다시_풀기" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -455,138 +418,115 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="기초알고리즘.그래프_다시_풀기" />
+      <recent name="중급알고리즘1.완전탐색1.For" />
+      <recent name="중급알고리즘1.완전탐색0" />
       <recent name="중급알고리즘1.이분탐색" />
       <recent name="중급알고리즘1.분할정복" />
-      <recent name="NHNPretest" />
-      <recent name="NHN" />
-      <recent name="kakao" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="중급알고리즘1.완전탐색1" />
       <recent name="기초알고리즘.다이나믹프로그래밍" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.나무자르기Test">
-    <configuration default="false" name="버블소트Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.DFS와BFS">
+    <configuration default="false" name="숨바꼭질백준" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="중급알고리즘1.분할정복.*" />
+          <option name="PATTERN" value="중급알고리즘1.완전탐색1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="classBackJoon" />
+      <option name="MAIN_CLASS_NAME" value="중급알고리즘1.완전탐색1.숨바꼭질백준" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="중급알고리즘1.분할정복" />
-      <option name="MAIN_CLASS_NAME" value="중급알고리즘1.분할정복.버블소트Test" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
+      <module name="classBackJoon" />
       <envs />
-      <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="버블소트Test.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="소수경로백준" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="중급알고리즘1.분할정복.*" />
+          <option name="PATTERN" value="중급알고리즘1.완전탐색1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="중급알고리즘1.완전탐색1.소수경로백준" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="classBackJoon" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="aaa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="중급알고리즘1.완전탐색1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="중급알고리즘1.완전탐색1.aaa" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="classBackJoon" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DFS와BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="기초알고리즘.그래프_다시_풀기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="기초알고리즘.그래프_다시_풀기.DFS와BFS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="classBackJoon" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DFS와BFSTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="기초알고리즘.그래프_다시_풀기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="classBackJoon" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="중급알고리즘1.분할정복" />
-      <option name="MAIN_CLASS_NAME" value="중급알고리즘1.분할정복.버블소트Test" />
+      <option name="PACKAGE_NAME" value="기초알고리즘.그래프_다시_풀기" />
+      <option name="MAIN_CLASS_NAME" value="기초알고리즘.그래프_다시_풀기.DFS와BFSTest" />
       <option name="METHOD_NAME" value="name" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="버블소트Test.name1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="중급알고리즘1.분할정복.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="classBackJoon" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="중급알고리즘1.분할정복" />
-      <option name="MAIN_CLASS_NAME" value="중급알고리즘1.분할정복.버블소트Test" />
-      <option name="METHOD_NAME" value="name1" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="랜선자르기Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="중급알고리즘1.이분탐색.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="classBackJoon" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="중급알고리즘1.이분탐색" />
-      <option name="MAIN_CLASS_NAME" value="중급알고리즘1.이분탐색.랜선자르기Test" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="나무자르기Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="중급알고리즘1.이분탐색.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="classBackJoon" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="중급알고리즘1.이분탐색" />
-      <option name="MAIN_CLASS_NAME" value="중급알고리즘1.이분탐색.나무자르기Test" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -980,19 +920,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.버블소트Test" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.버블소트Test.name" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.버블소트Test.name1" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.랜선자르기Test" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.나무자르기Test" />
+      <item index="0" class="java.lang.String" itemvalue="Application.숨바꼭질백준" />
+      <item index="1" class="java.lang.String" itemvalue="Application.소수경로백준" />
+      <item index="2" class="java.lang.String" itemvalue="Application.aaa" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DFS와BFS" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.DFS와BFSTest.name" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.나무자르기Test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.랜선자르기Test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.버블소트Test" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.버블소트Test.name1" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.버블소트Test.name" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DFS와BFS" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.DFS와BFSTest.name" />
+        <item index="2" class="java.lang.String" itemvalue="Application.aaa" />
+        <item index="3" class="java.lang.String" itemvalue="Application.소수경로백준" />
+        <item index="4" class="java.lang.String" itemvalue="Application.숨바꼭질백준" />
       </list>
     </recent_temporary>
   </component>
@@ -1043,72 +983,76 @@
       <workItem from="1506128413834" duration="7093000" />
       <workItem from="1506384512977" duration="748000" />
       <workItem from="1506752028573" duration="2976000" />
-      <workItem from="1506841099215" duration="33570000" />
+      <workItem from="1506841099215" duration="43726000" />
+      <workItem from="1506987980901" duration="23263000" />
+      <workItem from="1507099333134" duration="12568000" />
+      <workItem from="1507124978319" duration="11000" />
+      <workItem from="1507176532911" duration="8766000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="나무자르기Test - 2017.10.02 at 17h 03m 09s.xml">
-      <configuration name="나무자르기Test" configurationId="JUnit" />
+    <history-entry file="DFS와BFSTest_name - 2017.10.05 at 15h 00m 31s.xml">
+      <configuration name="DFS와BFSTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="나무자르기Test - 2017.10.02 at 17h 07m 10s.xml">
-      <configuration name="나무자르기Test" configurationId="JUnit" />
+    <history-entry file="DFS와BFSTest_name - 2017.10.05 at 15h 00m 49s.xml">
+      <configuration name="DFS와BFSTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="나무자르기Test - 2017.10.02 at 17h 08m 06s.xml">
-      <configuration name="나무자르기Test" configurationId="JUnit" />
+    <history-entry file="DFS와BFSTest_name - 2017.10.05 at 15h 01m 35s.xml">
+      <configuration name="DFS와BFSTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="나무자르기Test - 2017.10.02 at 17h 09m 25s.xml">
-      <configuration name="나무자르기Test" configurationId="JUnit" />
+    <history-entry file="DFS와BFSTest_name - 2017.10.05 at 15h 01m 49s.xml">
+      <configuration name="DFS와BFSTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="나무자르기Test - 2017.10.02 at 17h 11m 42s.xml">
-      <configuration name="나무자르기Test" configurationId="JUnit" />
+    <history-entry file="DFS와BFSTest_name - 2017.10.05 at 15h 23m 44s.xml">
+      <configuration name="DFS와BFSTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="나무자르기Test - 2017.10.02 at 17h 12m 25s.xml">
-      <configuration name="나무자르기Test" configurationId="JUnit" />
+    <history-entry file="DFS와BFSTest_name - 2017.10.05 at 15h 24m 18s.xml">
+      <configuration name="DFS와BFSTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="나무자르기Test - 2017.10.02 at 17h 12m 26s.xml">
-      <configuration name="나무자르기Test" configurationId="JUnit" />
+    <history-entry file="DFS와BFSTest_name - 2017.10.05 at 15h 24m 42s.xml">
+      <configuration name="DFS와BFSTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="나무자르기Test - 2017.10.02 at 17h 14m 00s.xml">
-      <configuration name="나무자르기Test" configurationId="JUnit" />
+    <history-entry file="DFS와BFSTest_name - 2017.10.05 at 15h 34m 31s.xml">
+      <configuration name="DFS와BFSTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="나무자르기Test - 2017.10.02 at 17h 14m 28s.xml">
-      <configuration name="나무자르기Test" configurationId="JUnit" />
+    <history-entry file="DFS와BFSTest_name - 2017.10.05 at 15h 35m 24s.xml">
+      <configuration name="DFS와BFSTest.name" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="나무자르기Test - 2017.10.02 at 17h 15m 10s.xml">
-      <configuration name="나무자르기Test" configurationId="JUnit" />
+    <history-entry file="DFS와BFSTest_name - 2017.10.05 at 15h 35m 39s.xml">
+      <configuration name="DFS와BFSTest.name" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="228024000" />
+    <option name="totallyTimeSpent" value="282788000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1024" y="-399" width="1024" height="1280" extended-state="0" />
+    <frame x="1024" y="-384" width="1024" height="1280" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32522303" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3247934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45111325" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.351176" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="687" y="126" width="568" height="333" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35036495" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="687" y="126" width="568" height="333" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32927817" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22851562" sideWeight="0.4898621" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20605469" sideWeight="0.486618" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49453124" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39578265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22851562" sideWeight="0.51013786" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33203125" sideWeight="0.513382" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1214,18 +1158,6 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/쿼드트리.java</url>
-          <line>47</line>
-          <properties />
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/쿼드트리.java</url>
-          <line>46</line>
-          <properties />
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/중급알고리즘1/이분탐색/나무자르기.java</url>
           <line>68</line>
           <properties />
@@ -1237,8 +1169,14 @@
           <properties />
           <option name="timeStamp" value="34" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색0/집합.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="35" />
+      <option name="time" value="44" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1247,476 +1185,385 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/그리디/회의실배정.java">
+    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/트리의순회.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/그리디/ATM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/그리디/잃어버린괄호.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/그리디/병든나이트.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/그리디/배수30.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/그리디/동전0백준.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/그리디/수묶기.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="57" column="10" lean-forward="true" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/그리디/대회OR인턴.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="65" column="55" lean-forward="true" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/그리디/수묶기Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/그리디/대회OR인턴Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/분할정복/숫자카드2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/분할정복/숫자카드Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/분할정복/배열합치기Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="34" column="42" lean-forward="true" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/분할정복/종이의개수Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/분할정복/하노이의탑이동순서Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/분할정복/트리의순회Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="57" lean-forward="false" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/function/ToIntFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="47" column="8" lean-forward="false" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../junit-4.11.jar!/org/junit/runners/ParentRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="154" column="30" lean-forward="true" selection-start-line="154" selection-start-column="30" selection-end-line="154" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../junit-4.11.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../junit-4.11.jar!/org/junit/runners/model/FrameworkMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="e#841#1035#0" expanded="true" />
-            <element signature="e#1034#1035#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../junit-4.11.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/reflect/InvocationTargetException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
-          <folding>
-            <element signature="e#2547#2548#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/분할정복/별찍기10Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/별찍기10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="50" column="45" lean-forward="false" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
-          <folding>
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/기초알고리즘/수학1/_PrimeFactorizationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/분할정복/별찍기11Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state relative-caret-position="988">
+          <caret line="53" column="17" lean-forward="false" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/하노이의탑이동순서.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="54" column="1" lean-forward="true" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/트리의순회.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="58" column="43" lean-forward="true" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1892#1893#0" expanded="true" />
-            <element signature="e#1930#1931#0" expanded="true" />
-            <element signature="e#1979#1980#0" expanded="true" />
-            <element signature="e#2021#2022#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1026">
+          <caret line="54" column="1" lean-forward="false" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/종이의개수백준.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
+        <state relative-caret-position="988">
           <caret line="52" column="51" lean-forward="false" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/숫자카드2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/숫자카드.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="59" column="38" lean-forward="true" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/별찍기11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/_이분탐색.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/종이의개수.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/쿼드트리.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/분할정복/쿼드트리Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/배열합치기.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="77" column="1" lean-forward="true" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/분할정복/Z2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/Z2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="40" lean-forward="false" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/분할정복/ZTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="50" column="54" lean-forward="false" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/Z.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="760">
+          <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/_MergeSort.java">
+    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/배열합치기.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/분할정복/버블소트Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/버블소트.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="40" column="22" lean-forward="false" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
-          <folding>
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#1001#1002#0" expanded="true" />
-            <element signature="e#1027#1028#0" expanded="true" />
-            <element signature="e#1057#1058#0" expanded="true" />
-            <element signature="e#1085#1086#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="30" column="9" lean-forward="false" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/가장가까운두점.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/분할정복/쿼드트리Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/분할정복/쿼드트리.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="42" column="9" lean-forward="false" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색0/집합.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="37" column="37" lean-forward="true" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#186#187#0" expanded="false" />
+            <element signature="e#216#217#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/완전탐색0/집합Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="39" lean-forward="true" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/완전탐색0/이전순열Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색0/이전순열.java" />
+    <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프/TermProject2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색0/순열의집합백준.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/완전탐색0/순열의순서Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색0/순열의순서.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="48" lean-forward="false" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/리모컨.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="43" column="48" lean-forward="false" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/EMS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/완전탐색1/차이를최대로Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/완전탐색1/리모컨Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/완전탐색1/EMSTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="36" column="1" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/완전탐색0/다음순열Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="46" column="5" lean-forward="false" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/완전탐색1/외판원순회2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="23" column="45" lean-forward="false" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색0/다음순열.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="81" column="1" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="81" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/완전탐색0/모든순열Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색0/모든순열백준꺼.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="5" lean-forward="false" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/리모컨백준.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="683">
+          <caret line="57" column="35" lean-forward="false" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색0/모든순열.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="103" column="9" lean-forward="false" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/로또.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="787">
+          <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/완전탐색1/로또Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/숨바꼭질백준.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="45" column="35" lean-forward="false" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/소수경로백준.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/aaa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/분할정복/가장가까운두점Test.java">
+    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/외판원순회2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="152">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/차이를최대로.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1444">
+          <caret line="77" column="35" lean-forward="false" selection-start-line="77" selection-start-column="35" selection-end-line="77" selection-end-column="35" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/이분탐색/랜선자르기Test.java">
+    <entry file="file://$PROJECT_DIR$/src/기초알고리즘/수학1/_PrimeNumbe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프/TermProject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프/토마토.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-191">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프/반복수열.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프/연결요소.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프/이분그래프.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
-          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프/사이클찾기.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프/섬의개수.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프/_Edge_List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-77">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프/_Adjacency_Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프/_Adjacency_List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프/_graphSearching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프_다시_풀기/BfsTest02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/기초알고리즘/그래프_다시_풀기/DFS와BFSTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="40" column="56" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="40" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/이분탐색/랜선자르기.java">
+    <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프_다시_풀기/DFS와BFS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#1458#1459#0" expanded="true" />
-            <element signature="e#1484#1485#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/중급알고리즘1/이분탐색/나무자르기Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/이분탐색/나무자르기.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-          <folding>
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-            <element signature="e#663#664#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
-            <element signature="e#857#858#0" expanded="true" />
-            <element signature="e#884#885#0" expanded="true" />
-            <element signature="e#910#911#0" expanded="true" />
+            <element signature="method#DFS와BFS#0;class#DFS와BFS#0" expanded="false" />
+            <element signature="e#2090#2091#0" expanded="true" />
+            <element signature="e#2116#2117#0" expanded="true" />
           </folding>
         </state>
       </provider>
