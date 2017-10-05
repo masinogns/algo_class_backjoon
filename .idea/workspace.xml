@@ -7,7 +7,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/중급알고리즘1/분할정복/별찍기11.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/중급알고리즘1/분할정복/쿼드트리.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/중급알고리즘1/완전탐색0/모든순열백준꺼.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/aaa.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/리모컨.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/리모컨백준.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/소수경로백준.java" />
@@ -21,40 +20,36 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/중급알고리즘1/완전탐색1/리모컨Test.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/중급알고리즘1/이분탐색/놀이공원Test.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/중급알고리즘1/이분탐색/중량제한Test.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/kakao/problem1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/NHNPretest/problem1Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/kakao/promblem1Test.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NHN/problem1.java" afterPath="$PROJECT_DIR$/src/CodingTest/NHN/problem1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NHN/problem2.java" afterPath="$PROJECT_DIR$/src/CodingTest/NHN/problem2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NHN/problem2015_1.java" afterPath="$PROJECT_DIR$/src/CodingTest/NHN/problem2015_1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NHN/problem2015_2.java" afterPath="$PROJECT_DIR$/src/CodingTest/NHN/problem2015_2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NHN/problem2015_4.java" afterPath="$PROJECT_DIR$/src/CodingTest/NHN/problem2015_4.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NHN/problem3.java" afterPath="$PROJECT_DIR$/src/CodingTest/NHN/problem3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NHN/problem4.java" afterPath="$PROJECT_DIR$/src/CodingTest/NHN/problem4.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NHNPretest/problem1.java" afterPath="$PROJECT_DIR$/src/CodingTest/NHNPretest/problem1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NHNPretest/problem2.java" afterPath="$PROJECT_DIR$/src/CodingTest/NHNPretest/problem2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/NHNPretest/problem3.java" afterPath="$PROJECT_DIR$/src/CodingTest/NHNPretest/problem3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kakao/LRU.java" afterPath="$PROJECT_DIR$/src/CodingTest/kakao/LRU.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kakao/problem2.java" afterPath="$PROJECT_DIR$/src/CodingTest/kakao/problem2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kakao/problem3.java" afterPath="$PROJECT_DIR$/src/CodingTest/kakao/problem3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kakao/problem4.java" afterPath="$PROJECT_DIR$/src/CodingTest/kakao/problem4.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kakao/problem5.java" afterPath="$PROJECT_DIR$/src/CodingTest/kakao/problem5.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/kakao/problem6.java" afterPath="$PROJECT_DIR$/src/CodingTest/kakao/problem6.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/NHN/problem1Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/NHN/problem1Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/NHN/problem2015_2Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/NHN/problem2015_2Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/NHN/problem2015_4Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/NHN/problem2015_4Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/NHN/problem2Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/NHN/problem2Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/NHN/problem3Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/NHN/problem3Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/NHN/problem4Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/NHN/problem4Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/NHNPretest/problem2Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/NHNPretest/problem2Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/kakao/LRUTest.java" afterPath="$PROJECT_DIR$/test/CodingTest/kakao/LRUTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/kakao/problem1Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/kakao/problem1Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/kakao/problem2Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/kakao/problem2Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/kakao/problem3Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/kakao/problem3Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/kakao/problem4Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/kakao/problem4Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/kakao/problem5Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/kakao/problem5Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/kakao/problem6Test.java" afterPath="$PROJECT_DIR$/test/CodingTest/kakao/problem6Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/NHN/problem1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/NHN/problem2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/NHN/problem2015_1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/NHN/problem2015_2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/NHN/problem2015_4.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/NHN/problem3.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/NHN/problem4.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/NHNPretest/problem1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/NHNPretest/problem2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/NHNPretest/problem3.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/kakao/LRU.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/kakao/problem2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/kakao/problem3.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/kakao/problem4.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/kakao/problem5.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/kakao/problem6.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/NHN/problem1Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/NHN/problem2015_2Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/NHN/problem2015_4Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/NHN/problem2Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/NHN/problem3Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/NHN/problem4Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/NHNPretest/problem2Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/kakao/LRUTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/kakao/problem1Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/kakao/problem2Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/kakao/problem3Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/kakao/problem4Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/kakao/problem5Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/kakao/problem6Test.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/기초알고리즘/그래프/_graphSearching.java" afterPath="$PROJECT_DIR$/src/기초알고리즘/그래프/_graphSearching.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/중급알고리즘1/분할정복/버블소트.java" afterPath="$PROJECT_DIR$/src/중급알고리즘1/분할정복/버블소트.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/중급알고리즘1/이분탐색/공유기설치.java" afterPath="$PROJECT_DIR$/src/중급알고리즘1/이분탐색/공유기설치.java" />
@@ -104,7 +99,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_Adjacency_Matrix.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="소수경로백준.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/소수경로백준.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_Adjacency_Matrix.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프/_Adjacency_Matrix.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
@@ -134,7 +139,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DFS와BFS.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DFS와BFS.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프_다시_풀기/DFS와BFS.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
@@ -176,16 +181,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="570">
               <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="이분그래프.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/기초알고리즘/그래프/이분그래프.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -355,6 +350,32 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="중급알고리즘1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classBackJoon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classBackJoon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="중급알고리즘1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="완전탐색1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -393,6 +414,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="그래프_다시_풀기" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classBackJoon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classBackJoon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -987,7 +1022,7 @@
       <workItem from="1506987980901" duration="23263000" />
       <workItem from="1507099333134" duration="12568000" />
       <workItem from="1507124978319" duration="11000" />
-      <workItem from="1507176532911" duration="8766000" />
+      <workItem from="1507176532911" duration="8880000" />
     </task>
     <servers />
   </component>
@@ -1024,11 +1059,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="282788000" />
+    <option name="totallyTimeSpent" value="282902000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1024" y="-384" width="1024" height="1280" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1045,7 +1080,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32927817" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20605469" sideWeight="0.486618" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20605469" sideWeight="0.486618" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49453124" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1405,24 +1440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/소수경로백준.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/aaa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/외판원순회2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -1565,6 +1582,22 @@
             <element signature="e#2090#2091#0" expanded="true" />
             <element signature="e#2116#2117#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/소수경로백준.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/중급알고리즘1/완전탐색1/aaa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="28" column="38" lean-forward="true" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
