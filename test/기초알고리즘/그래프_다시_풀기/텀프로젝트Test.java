@@ -2,6 +2,8 @@ package 기초알고리즘.그래프_다시_풀기;
 
 import org.junit.Test;
 
+import java.util.ArrayList;
+
 import static org.junit.Assert.*;
 
 /**
@@ -21,9 +23,10 @@ public class 텀프로젝트Test {
                 3,1,3,7,3,4,6
         };
 
-        int[][] graph = application.makeGraph(numberOfStudents, wantYou);
+        ArrayList<Integer>[] graph = application.makeGraph(numberOfStudents, wantYou);
 
         application.solution(numberOfStudents, graph);
+        assertEquals(4, application.getCount());
         assertEquals(3, numberOfStudents - application.getCount());
 
     }
@@ -35,7 +38,7 @@ public class 텀프로젝트Test {
                 1, 2, 3, 4, 5, 6, 7, 8
         };
 
-        int[][] graph = application.makeGraph(numberOfStudents, wantYou);
+        ArrayList<Integer>[] graph = application.makeGraph(numberOfStudents, wantYou);
 
         application.solution(numberOfStudents, graph);
         assertEquals(0, numberOfStudents - application.getCount());

@@ -13,19 +13,24 @@ import java.util.Scanner;
  *
  * 노드의 갯수가 최대 20,000개 까지라서
  * 20,000 * 20,000을 하면 메모리가 빠이 될 듯..
+ *
+ * !!!!!!!!ㅡ인접리스트로 하면 런타임 에러 해결함 !!!!!!!!
  */
 public class 이분그래프 {
     boolean check = false;
     boolean isbinaryGraph = true;
 
-    public boolean getIsIsbinaryGraph() {
+    public void setIsbinaryGraph(boolean isbinaryGraph) {
+        this.isbinaryGraph = isbinaryGraph;
+    }
+
+    public boolean getIsbinaryGraph() {
         return isbinaryGraph;
     }
 
-    public void solution(int numberOfNode, int startNode, int[][] graph) {
+    public void solution(int numberOfNode, int startNode, ArrayList<Integer>[] graph) {
         boolean[] nodeVisited = new boolean[numberOfNode+1];
         boolean[] groupChecker = new boolean[numberOfNode+1];
-
 
         Queue<Integer> queue = new LinkedList<>();
         nodeVisited[startNode] = true;
@@ -35,13 +40,14 @@ public class 이분그래프 {
         while (!queue.isEmpty()){
             int current = queue.remove();
 
-            for (int nextNode = 0; nextNode <= numberOfNode; nextNode++){
-                if (graph[current][nextNode] == 1 && nodeVisited[nextNode] == false){
+            for (int nextNode : graph[current]){
+                if (nodeVisited[nextNode] == false){
                     queue.add(nextNode);
                     nodeVisited[nextNode] = true;
                     groupChecker[nextNode] = !groupChecker[current];
-                }else if (graph[current][nextNode] == 1 && nodeVisited[nextNode] == true){
-                    if (current!=nextNode && groupChecker[current] == groupChecker[nextNode]){
+
+                }else if (nodeVisited[nextNode] == true){
+                    if (groupChecker[current] == groupChecker[nextNode]){
                         isbinaryGraph = false;
                         return;
                     }
@@ -50,11 +56,19 @@ public class 이분그래프 {
         }
     }
 
-    public int[][] makeGraph(int[][] edges, int numberOfNode, int numberOfEdge) {
-        int[][] graph = new int[numberOfNode+1][numberOfNode+1];
+    public ArrayList<Integer>[] makeGraph(int[][] edges, int numberOfNode, int numberOfEdge) {
+        ArrayList<Integer>[] graph = new ArrayList[numberOfNode+1];
+
+        for (int i = 1; i <= numberOfNode; i++){
+            graph[i] = new ArrayList<>();
+        }
 
         for (int i = 0; i < numberOfEdge; i++){
-            graph[edges[i][0]][edges[i][1]] = graph[edges[i][1]][edges[i][0]] = 1;
+            int u = edges[i][0];
+            int v = edges[i][1];
+
+            graph[u].add(v);
+            graph[v].add(u);
         }
 
         return graph;
@@ -68,7 +82,7 @@ public class 이분그래프 {
         int testcase = scanner.nextInt();
 
         while (testcase-- > 0) {
-
+            application.setIsbinaryGraph(true);
             int numberOfNode = scanner.nextInt();
             int numberOfEdge = scanner.nextInt();
             int[][] edges = new int[numberOfEdge][2];
@@ -78,11 +92,10 @@ public class 이분그래프 {
             }
 
             int startNode = edges[0][0];
-
-            int[][] graph = application.makeGraph(edges, numberOfNode, numberOfEdge);
+            ArrayList<Integer>[] graph = application.makeGraph(edges, numberOfNode, numberOfEdge);
             application.solution(numberOfNode, startNode, graph);
 
-            if (application.getIsIsbinaryGraph())
+            if (application.getIsbinaryGraph())
                 System.out.println("YES");
             else
                 System.out.println("NO");

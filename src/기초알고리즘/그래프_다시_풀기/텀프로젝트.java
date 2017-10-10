@@ -1,9 +1,19 @@
 package 기초알고리즘.그래프_다시_풀기;
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
  * Created by masinogns on 2017. 10. 7..
+ *
+ * 테스트 케이스는 통과했으나
+ *
+ * "런타임 에러 발생 !!!!"
+ *
+ * 인접 배열이 아닌 인접 리스트로 메모리 초과를 줄여보자!!
+ * 인접 배열을 사용한 이유는 i == i 일 때의 count를 해주기 위해서였다
+ * 인접 리스트에서는 어떻게 해결할지 생각해봐야 한다
+ *
  */
 public class 텀프로젝트 {
     private int count;
@@ -12,42 +22,46 @@ public class 텀프로젝트 {
         return count;
     }
 
-    public int[][] makeGraph(int numberOfStudents, int[] wantYou) {
-        count = 0;
+    public 텀프로젝트() {
+        this.count = 0;
+    }
 
-        int[][] graph = new int[numberOfStudents+1][numberOfStudents+1];
-        for (int i = 1; i <= numberOfStudents; i++){
-            int next = wantYou[i-1];
-            graph[i][next] = graph[next][i] = 1;
+    public ArrayList<Integer>[] makeGraph(int numberOfStudents, int[] wantYou) {
+        ArrayList<Integer>[] graph = new ArrayList[numberOfStudents+1];
 
-            if (graph[i][i] == 1){
-                graph[i][i] = 0;
-                count++;
-            }
+        for (int i = 1; i <= numberOfStudents; i++)
+            graph[i] = new ArrayList<>();
+
+        for (int u = 1; u <= numberOfStudents; u++){
+            int v = wantYou[u-1];
+
+            graph[u].add(v);
+            graph[v].add(u);
+
         }
 
         return graph;
     }
 
-    public void solution(int numberOfStudents, int[][] graph) {
+    public void solution(int numberOfStudents, ArrayList<Integer>[] graph) {
         boolean[] check = new boolean[numberOfStudents+1];
         int[] value = new int[numberOfStudents+1];
 
         for (int current = 1; current <= numberOfStudents; current++){
             if (check[current] == false){
-                DFS(current, check, graph, numberOfStudents, value[current]++);
+                DFS(current, check, graph, numberOfStudents, 1);
             }
         }
 
     }
 
-    private void DFS(int current, boolean[] check, int[][] graph, int numberOfNode, int value) {
+    private void DFS(int current, boolean[] check, ArrayList<Integer>[] graph, int numberOfNode, int value) {
         check[current] = true;
 
-        for (int nextNode = 1; nextNode <= numberOfNode; nextNode++){
-            if (graph[current][nextNode] == 1 && check[nextNode] == false){
+        for (int nextNode : graph[current]){
+            if (check[nextNode] == false){
                 DFS(nextNode, check, graph, numberOfNode, value++);
-            }else if (graph[current][nextNode] == 1 && check[nextNode] == true){
+            }else if (check[nextNode] == true){
                 this.count += value;
             }
         }
@@ -65,7 +79,7 @@ public class 텀프로젝트 {
             for (int i = 0; i < numberOfStudents; i++)
                 wantYou[i] = scanner.nextInt();
 
-            int[][] graph = application.makeGraph(numberOfStudents, wantYou);
+            ArrayList<Integer>[] graph = application.makeGraph(numberOfStudents, wantYou);
             application.solution(numberOfStudents, graph);
 
             int ret = numberOfStudents - application.getCount();

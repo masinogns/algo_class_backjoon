@@ -5,6 +5,8 @@ import java.util.Scanner;
 
 /**
  * Created by masinogns on 2017. 10. 7..
+ *
+ * PASS
  */
 public class 순열사이클 {
     int count = 0;

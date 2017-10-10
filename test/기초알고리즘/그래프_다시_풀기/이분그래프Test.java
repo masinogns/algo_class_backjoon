@@ -2,6 +2,8 @@ package 기초알고리즘.그래프_다시_풀기;
 
 import org.junit.Test;
 
+import java.util.ArrayList;
+
 import static org.junit.Assert.*;
 
 /**
@@ -29,9 +31,9 @@ public class 이분그래프Test {
         };
 
         int startNode = edges[0][0];
-        int[][] graph = application.makeGraph(edges, numberOfNode, numberOfEdge);
+        ArrayList<Integer>[] graph = application.makeGraph(edges, numberOfNode, numberOfEdge);
         application.solution(numberOfNode, startNode, graph);
-        assertEquals(true, application.getIsIsbinaryGraph());
+        assertEquals(true, application.getIsbinaryGraph());
     }
 
     @Test
@@ -45,8 +47,26 @@ public class 이분그래프Test {
         };
         int startNode = edges[0][0];
 
-        int[][] graph = application.makeGraph(edges, numberOfNode, numberOfEdge);
+        ArrayList<Integer>[] graph = application.makeGraph(edges, numberOfNode, numberOfEdge);
         application.solution(numberOfNode, startNode, graph);
-        assertEquals(false, application.getIsIsbinaryGraph());
+        assertEquals(false, application.getIsbinaryGraph());
+    }
+
+    @Test
+    public void name2() throws Exception {
+        int numberOfNode = 7, numberOfEdge = 6;
+        int[][] edges = new int[][]{
+                {1,4},
+                {1,6},
+                {2,4},
+                {2,3},
+                {5,6},
+                {3,5}
+        };
+        int startNode = edges[0][0];
+
+        ArrayList<Integer>[] graph = application.makeGraph(edges, numberOfNode, numberOfEdge);
+        application.solution(numberOfNode, startNode, graph);
+        assertEquals(true, application.getIsbinaryGraph());
     }
 }

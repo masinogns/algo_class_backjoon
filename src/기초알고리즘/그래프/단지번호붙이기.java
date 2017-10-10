@@ -1,6 +1,7 @@
 package 기초알고리즘.그래프;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
 /**
  * Created by masinogns on 2017. 9. 11..
@@ -24,6 +25,7 @@ public class 단지번호붙이기 {
 
         result = new ArrayList<>();
         check = new boolean[mapSize][mapSize];
+
         for (int i = 0; i < mapSize; i++){
             for (int j = 0; j < mapSize; j++){
                 if (map[i][j] == 1 && check[i][j]==false){
@@ -33,6 +35,7 @@ public class 단지번호붙이기 {
             }
         }
 
+        Collections.sort(result);
 
         for (Integer integer : result)
             System.out.println(integer);
@@ -49,12 +52,10 @@ public class 단지번호붙이기 {
 
             if (0 <= nx && nx < mapSize && 0 <= ny && ny < mapSize){
                 if (map[nx][ny] == 1 && check[nx][ny] == false){
-                    count = dfs(nx, ny, map, mapSize, count++);
+                    count = dfs(nx, ny, map, mapSize, ++count);
                 }
             }
-
         }
         return count;
     }
-
 }

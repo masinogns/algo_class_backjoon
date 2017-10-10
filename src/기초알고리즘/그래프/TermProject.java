@@ -1,6 +1,7 @@
 package 기초알고리즘.그래프;
 
 import java.util.ArrayList;
+import java.util.Scanner;
 
 /**
  * Created by masinogns on 2017. 9. 11..
@@ -60,4 +61,20 @@ public class TermProject {
     }
 
 
+    public static void main(String[] args) {
+        TermProject application = new TermProject();
+
+        Scanner scanner = new Scanner(System.in);
+
+        ArrayList<Integer> array = new ArrayList<>();
+
+        int number = scanner.nextInt();
+        for (int i = 0; i < number; i++){
+            array.add(scanner.nextInt());
+        }
+
+        int ret = application.solution(number, array);
+
+        System.out.println(ret);
+    }
 }

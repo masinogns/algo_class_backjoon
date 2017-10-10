@@ -10,6 +10,8 @@ import java.util.Stack;
  * DFS BFS 쓰지도 않았다.
  *
  * 그래프 문제가 맞긴 한당가
+ *
+ * PASS !!
  */
 public class 반복수열 {
     public int solution(int a, int p) {
